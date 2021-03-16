@@ -1,2 +1,2 @@
 new file
-git is awesome
+git is awesome.
